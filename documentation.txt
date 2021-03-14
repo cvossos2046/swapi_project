@@ -1,0 +1,5 @@
+The program works for the 4 following options for arguments:
+1) python main.py search "name"
+2) python main.py search "name" --world
+3) python main.py cache --clean
+4) python main.py visualization (prints all the searches, the results and the time of search)
